@@ -4,12 +4,12 @@
 package com.skingz.designpattern.struct.decorate;
 
 /**
- * Title:    ZTestDecorte
+ * Title:    ZTest
  * Description: 
  * @author Elizaber
  * @date 2016-11-7
  */
-public class ZTestDecorte {
+public class ZTest {
 
 	/**
 	 * @param args

@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=GBK">
-<title>com.skingz.designpattern.struct.group</title>
+<title>com.skingz.designpattern.struct.composite</title>
 </head>
 <body>
  <dl><dt>Author:</dt><dd>Elizaber</dd></dl>
