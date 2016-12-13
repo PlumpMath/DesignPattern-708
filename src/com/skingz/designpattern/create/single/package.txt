@@ -1,14 +1,2 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<!--
- 
- 
--->
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=GBK">
-<title>com.skingz.designpattern.struct.composite</title>
-</head>
-<body>
- <dl><dt>Author:</dt><dd>Elizaber</dd></dl>
-</body>
-</html>
+
+单例模式的 多种写法
